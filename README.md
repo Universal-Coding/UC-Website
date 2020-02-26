@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/Universal-Coding/UC-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to our webpage!
+Universal coding is an open-source company that obviously, likes to code.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We do several things, for example:
+- Help people if they have any doubt about some programming language
+- Help people to fix a bug in their code
+- Make repos with tutorials for programming languages or specific purposes
+- Etc...
 
-### Markdown
+## Our Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are a brand new company, so there is not too much to see here.
+We have a Discord Bot called Alexis written in discord.js which you can invite [here](https://discordapp.com/api/oauth2/authorize?client_id=679036215005020388&permissions=8&scope=bot)
 
-```markdown
-Syntax highlighted code block
+We are also thinking of making JS and Lua tutorials
 
-# Header 1
-## Header 2
-### Header 3
+Future projects will be added
 
-- Bulleted
-- List
+## Support
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Universal-Coding/UC-Website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email us: universalcodingteam@gmail.com  
+Discord Support Server: https://discord.gg/gaueWqb
